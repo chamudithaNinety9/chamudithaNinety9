@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudithaninety9&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithaninety9" /> </p>
 
-- 🔭 I’m currently working on **Track back**
-
-- 🌱 I’m currently learning **React and Node**
-
 - 💬 Ask me about **Java , Springboot**
 
 - 📫 How to reach me **chamudithapramodya16@gmail.com**
