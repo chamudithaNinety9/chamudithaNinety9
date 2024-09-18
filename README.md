@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudithaninety9&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithaninety9" /> </p>
 
-- 💬 Ask me about **Java , Springboot**
+- 💬 Ask me about **Java , Springboot. React**
 
 - 📫 How to reach me **chamudithapramodya16@gmail.com**
 
